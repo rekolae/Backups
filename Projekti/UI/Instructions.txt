@@ -1,0 +1,64 @@
+Welcome to play the Island game!!!
+
+
+Playing mechanics consist of 3 main phases: Moving pawns, sinking tiles and finally spinning the wheel of actor randomness.
+There are multiple different actors and a transport to be used by the players.
+
+
+In the first phase, moving pawns, the player in turn can move pawns or dig for treasure by using their action points.
+Every player will have 3 action points and moving or diggind for treasure will use them.
+Moving one tile on land will use up one action point as will digging for treasure, but moving in water will use three action points.
+Note: You can not dig for treasure in water. Why you ask? Well try having a swim in an ocean and digging a hole in the water.
+
+
+During the second phase, the player having used up their action points, can sink a tile from the gameboard, that is not yet submerged.
+One must however first sink all of the beach tiles (yellow ones) before moving onto forest (green) and mountain pieces (gray).
+When a player flips a tile, pawns that were on the tile will be dropped into the water, and a symbol will be shown.
+This symbol will tell what kind of actor or transport will be present on the water tile.
+If there is no symbol on the tile, it doesn't mean that the game borked itself, it just means that there was a vortex.
+
+
+In the final phase players spin the wheel of actor randomness and will be given a random type of actor and number or the letter 'D'.
+For example, if an icon of a shark and a number 3 pop up, it means the player in turn can move a shark on the gameboard by up to three tiles.
+If the letter 'D', which stands for dive, was given instead of number 3, it would mean that the player could move a shark to any water tile.
+If there is no icon, it means that the randomized actor was not yet present on the gameboard and naturally can't be moved by the player.
+
+
+There are four different types of actors and two types of transports. The two types of transports are boat and dolphin.
+The boat can be used as a vessel for multiple pawns to navigate the dangerous waters of the notorious island game.
+The boat can hold three pawns and the player who has most pawns aboard controls the boat. Moving the boat for one tile costs 1 action point.
+If there is a tie between pawns (e.g. 1 pawn from player1 and 1 from player2) both get to control the boat.
+Dolphin, unlike the similar looking shark, is a friendly actor, it can be used to move on water tiles using up only one action point per water tile.
+
+
+Types of actors are shark, kraken, seamunster and wortex.
+The shark is a hungry hostile actor, it eats any and all pawns that are in the same water tile with it.
+The kraken is a slimy hostile actor, it destroys all boats in the tile, but doesn't harm pawns, dropping the pawns into the water.
+The seamunster is a mean hostile actor, it destroys boats like a bully breaking toys and devours pawns for breakfast.
+The vortex is a hostile actor, some say it is destruction reincarnate, others say it is Poseidon flushing a toilet, all we know is he is called the Sti...
+Whoops, I meant to say that it clears all the surrounding water tiles, and the tile it's on, clean of actors and pawns.
+
+
+The goal of the game is to get the most points. Points can be earned by digging for treasure and by leading pawns to the coral (magenta tiles).
+When a pawn reaches a coral tile, it will disappear and will not be playable anymore, so balance between digging and running straight to the coral.
+Oh and try not to get eaten by a shark or a seamunster.
+
+
+Good luck and may the odds be ever in your favour! 
+
+
+
+
+            ..---..
+          .'  _    `.
+    __..'  (o)    :
+   `..__          ;
+          `.       /
+            ;      `..---...___
+          .'                           `~-. .- ' )
+         .                                      ' _.'
+        :        Emil Rekola                :
+        \        Roope Keskinen        /
+         +      2018, ohj3              /
+          `.                             ,_.'
+            `~--....___...---~'

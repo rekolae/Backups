@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/actorImages">
+        <file>shark.png</file>
+        <file>dolphin.png</file>
+        <file>seamonster.png</file>
+        <file>kraken.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>D.png</file>
+    </qresource>
+    <qresource prefix="/textFiles">
+        <file>Instructions.txt</file>
+    </qresource>
+</RCC>
