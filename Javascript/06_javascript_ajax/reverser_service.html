@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Exercise 4.2: PostMessage</title>
+    <script>
+      function on_submit() {
+        var text_normal = document.getElementById("toBeReversed").value;
+        var text_reversed = text_normal.split( '' ).reverse( ).join( '' );
+        var msg = {};
+        msg.payload = text_reversed;
+        window.parent.postMessage(msg, "*");
+      }
+
+      function on_clear() {
+        document.getElementById("toBeReversed").value = "";
+        var msg = {};
+        msg.payload = "INPUT CLEARED";
+        window.parent.postMessage(msg, "*");
+      }
+    </script>
+  </head>
+  <body>
+    <form id="reverser">
+      <input id="toBeReversed" type="text" name="Input" value="">
+      <input id="submitReverser" type="submit" name="button" value="Submit" onclick="on_submit()">
+    </form>
+    <button id="clearInput" type="button" name="button" onclick="on_clear()">Clear</button>
+  </body>
+</html>

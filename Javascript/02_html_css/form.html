@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Exercise 2.2: HTML form</title>
+    <style>
+        div.first {
+            padding-top: 5px;
+            padding-right: 10px;
+            padding-left: 10px;
+        }
+
+        div.middle {
+            padding-top: 5px;
+            padding-right: 10px;
+            padding-left: 10px;
+            padding-bottom: 5px;
+        }
+
+        div.last {
+            padding-bottom: 5px;
+            padding-right: 10px;
+            padding-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Registration form</h1>
+    <form action="http://127.0.0.1/wsd/html_form_check" method="post">
+        <div class="first">
+            <label for="email">Email</label>
+            <input id="email" name="email">
+        </div>
+        <div class="middle">
+            <label for="passwd">Password</label>
+            <input id="passwd" name="passwd">
+        </div>
+        <div class="middle">
+            <label for="passwd2">Repeat password</label>
+            <input id="passwd2" name="passwd2">
+        </div>
+        <div class="middle">
+            <label for="lang">Language</label>
+            <select name="lang" id="lang">
+                <option value="fi">Finnish</option>
+                <option value="sv">Swedish</option>
+                <option value="no">Norwegian</option>
+                <option value="da">Danish</option>
+                <option value="is">Icelandic</option>
+            </select>
+        </div>
+        <div class="middle">
+            <label for="terms">I accept terms and conditions</label>
+            <input type="checkbox" name="terms" id="terms">
+        </div>
+        <div class="last">
+            <input type="submit" value="Register">
+        </div>
+    </form>
+</body>
+</html>
