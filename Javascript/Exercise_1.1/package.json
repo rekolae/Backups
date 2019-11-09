@@ -1,0 +1,11 @@
+{
+  "name": "exercise_1.1",
+  "version": "1.0.0",
+  "description": "command-line application that sums two given integers together",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emil Rekola",
+  "license": "ISC"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "exercise_2.1",
+  "version": "1.0.0",
+  "description": "Nodejs server used for simple routing.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emil Rekola",
+  "license": "ISC",
+  "dependencies": {
+    "xss-filters": "^1.2.7"
+  }
+}

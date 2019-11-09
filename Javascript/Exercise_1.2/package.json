@@ -1,0 +1,12 @@
+{
+  "name": "exercise_1.2",
+  "version": "1.0.0",
+  "description": "Server application that listens the port 3000,
+  generates a random number between 1 and 2019, returns the number as response",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emil Rekola",
+  "license": "ISC"
+}

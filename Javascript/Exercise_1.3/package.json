@@ -1,0 +1,11 @@
+{
+  "name": "exercise_1.3",
+  "version": "1.0.0",
+  "description": "Command-line application that handels given arguments and file operations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emil Rekola",
+  "license": "ISC"
+}
