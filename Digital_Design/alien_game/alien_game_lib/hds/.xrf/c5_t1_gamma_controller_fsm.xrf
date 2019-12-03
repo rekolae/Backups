@@ -1,0 +1,268 @@
+DESIGN c5_t1_gamma_controller
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c5_t1_gamma_controller
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c5_t1_gamma_controller
+VIEW symbol.sb
+GRAPHIC 118,0 14 0 
+DESIGN c5_t1_gamma_controller
+VIEW symbol.sb
+GRAPHIC 264,0 15 0 
+DESIGN c5_t1_gamma_controller
+VIEW symbol.sb
+GRAPHIC 123,0 16 0 
+DESIGN c5_t1_gamma_controller
+VIEW symbol.sb
+GRAPHIC 128,0 17 0 
+DESIGN c5_t1_gamma_controller
+VIEW symbol.sb
+GRAPHIC 269,0 18 0 
+DESIGN c5_t1_gamma_controller
+VIEW symbol.sb
+GRAPHIC 138,0 19 0 
+DESIGN c5_t1_gamma_controller
+VIEW symbol.sb
+GRAPHIC 274,0 20 0 
+DESIGN c5_t1_gamma_controller
+VIEW symbol.sb
+GRAPHIC 133,0 21 0 
+DESIGN c5_t1_gamma_controller
+VIEW symbol.sb
+GRAPHIC 1,0 24 0 
+DESIGN c5_t1_gamma_controller
+VIEW symbol.sb
+GRAPHIC 1,0 25 0 
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 31,0 37 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 40
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 2,0 58 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 59
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 2,0 62 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 63
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 70,0 64 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 60,0 66 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 67
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 2,0 69 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 70
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 2,0 72 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 73
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 2,0 79 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 43,0 80 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 355,0 81 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 333,0 82 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 212,0 83 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 43,0 84 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 239,0 85 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 217,0 86 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 87
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 43,0 88 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 89
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 217,0 90 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 402,0 91 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 333,0 92 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 93
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 244,0 94 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 95
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 244,0 96 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 412,0 97 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 333,0 98 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 99
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 43,0 100 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 101
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 333,0 102 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 360,0 103 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 93,0 106 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 108
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 2,0 109 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 110
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 2,0 112 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 113
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 30,0 118 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 122
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 2,0 124 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 217,0 125 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 232,0 126 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 244,0 127 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 259,0 128 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 333,0 129 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 348,0 130 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 360,0 131 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 375,0 132 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 133
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+GRAPHIC 2,0 135 0
+LIBRARY alien_game_lib
+DESIGN c5_t1_gamma_controller
+VIEW fsm.sm
+NO_GRAPHIC 137

@@ -1,0 +1,87 @@
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW symbol.sb
+GRAPHIC 121,0 14 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW symbol.sb
+GRAPHIC 116,0 15 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW symbol.sb
+GRAPHIC 126,0 16 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW symbol.sb
+GRAPHIC 131,0 17 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+NO_GRAPHIC 24
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+GRAPHIC 105,0 33 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+NO_GRAPHIC 36
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+GRAPHIC 0,0 38 2 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+GRAPHIC 303,0 43 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+GRAPHIC 566,0 44 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+GRAPHIC 572,0 45 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+GRAPHIC 635,0 46 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+GRAPHIC 309,0 47 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+GRAPHIC 480,0 48 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+NO_GRAPHIC 53
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+NO_GRAPHIC 54
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+GRAPHIC 212,0 56 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+GRAPHIC 537,0 68 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+GRAPHIC 547,0 71 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+GRAPHIC 395,0 74 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+GRAPHIC 582,0 77 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+GRAPHIC 260,0 80 0 
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+NO_GRAPHIC 91
+DESIGN c2_t7_alien_direction_contoller_v2
+VIEW struct.bd
+NO_GRAPHIC 94

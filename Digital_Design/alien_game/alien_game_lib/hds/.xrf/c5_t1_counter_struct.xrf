@@ -1,0 +1,155 @@
+DESIGN c5_t1_counter
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c5_t1_counter
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c5_t1_counter
+VIEW symbol.sb
+GRAPHIC 118,0 14 0 
+DESIGN c5_t1_counter
+VIEW symbol.sb
+GRAPHIC 214,0 15 0 
+DESIGN c5_t1_counter
+VIEW symbol.sb
+GRAPHIC 133,0 16 0 
+DESIGN c5_t1_counter
+VIEW symbol.sb
+GRAPHIC 128,0 17 0 
+DESIGN c5_t1_counter
+VIEW symbol.sb
+GRAPHIC 123,0 18 0 
+DESIGN c5_t1_counter
+VIEW symbol.sb
+GRAPHIC 566,0 19 0 
+DESIGN c5_t1_counter
+VIEW symbol.sb
+GRAPHIC 138,0 20 0 
+DESIGN c5_t1_counter
+VIEW symbol.sb
+GRAPHIC 1,0 23 0 
+DESIGN c5_t1_counter
+VIEW symbol.sb
+GRAPHIC 1,0 24 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+NO_GRAPHIC 27
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 121,0 36 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+NO_GRAPHIC 39
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 0,0 42 2 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 491,0 47 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 1004,0 48 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 688,0 49 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 453,0 50 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 459,0 51 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 560,0 52 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 635,0 53 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 800,0 54 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 887,0 55 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 998,0 56 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+NO_GRAPHIC 57
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 497,0 59 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+NO_GRAPHIC 67
+LIBRARY alien_game_lib
+DESIGN c2_t3_left_shifter
+VIEW struct
+GRAPHIC 189,0 69 0 
+DESIGN c2_t3_left_shifter
+VIEW symbol.sb
+GRAPHIC 112,0 71 0 
+DESIGN c2_t3_left_shifter
+VIEW symbol.sb
+GRAPHIC 117,0 72 0 
+LIBRARY alien_game_lib
+DESIGN c5_t1_counter
+VIEW struct.bd
+NO_GRAPHIC 75
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 189,0 78 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+NO_GRAPHIC 81
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 258,0 83 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 928,0 94 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 329,0 105 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 620,0 108 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 651,0 111 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 961,0 114 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 551,0 117 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 207,0 120 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 842,0 131 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 296,0 134 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 709,0 138 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+NO_GRAPHIC 144
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 189,0 146 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 497,0 148 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 493,0 149 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+GRAPHIC 497,0 153 0 
+DESIGN c5_t1_counter
+VIEW struct.bd
+NO_GRAPHIC 155

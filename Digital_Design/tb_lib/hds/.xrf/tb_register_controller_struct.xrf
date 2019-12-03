@@ -1,0 +1,213 @@
+DESIGN tb_register_controller
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN tb_register_controller
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN tb_register_controller
+VIEW symbol.sb
+GRAPHIC 1,0 13 0 
+DESIGN tb_register_controller
+VIEW symbol.sb
+GRAPHIC 1,0 14 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+NO_GRAPHIC 17
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 41,0 26 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 0,0 33 2 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 201,0 38 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 412,0 39 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 169,0 40 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 428,0 41 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 209,0 42 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 432,0 43 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 177,0 44 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 416,0 45 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 442,0 46 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 444,0 47 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+NO_GRAPHIC 48
+DESIGN tb_register_controller
+VIEW struct.bd
+NO_GRAPHIC 49
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm
+GRAPHIC 653,0 51 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 128,0 53 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 143,0 54 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 133,0 55 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 138,0 56 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 153,0 57 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 163,0 58 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 148,0 59 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 158,0 60 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 168,0 61 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 173,0 62 0 
+LIBRARY tb_lib
+DESIGN register_controller_tester
+VIEW struct
+GRAPHIC 309,0 65 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 217,0 67 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 680,0 68 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 712,0 69 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 232,0 70 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 257,0 71 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 262,0 72 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 227,0 73 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 237,0 74 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 242,0 75 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 717,0 76 0 
+LIBRARY tb_lib
+DESIGN tb_register_controller
+VIEW struct.bd
+NO_GRAPHIC 79
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 653,0 82 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 309,0 83 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+NO_GRAPHIC 86
+DESIGN tb_register_controller
+VIEW struct.bd
+NO_GRAPHIC 88
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 653,0 90 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 171,0 92 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 434,0 93 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 179,0 94 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 187,0 95 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 203,0 96 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 219,0 97 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 195,0 98 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 211,0 99 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 227,0 100 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 235,0 101 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 309,0 103 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 203,0 105 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 219,0 106 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 195,0 107 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 211,0 108 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 227,0 109 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 235,0 110 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 171,0 111 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 434,0 112 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 179,0 113 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+GRAPHIC 187,0 114 0 
+DESIGN tb_register_controller
+VIEW struct.bd
+NO_GRAPHIC 117

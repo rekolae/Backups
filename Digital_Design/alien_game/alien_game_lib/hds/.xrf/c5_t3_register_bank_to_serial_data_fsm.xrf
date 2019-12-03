@@ -1,0 +1,602 @@
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 128,0 14 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 143,0 15 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 133,0 16 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 138,0 17 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 153,0 18 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 163,0 19 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 148,0 20 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 158,0 21 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 168,0 22 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 173,0 23 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW symbol.sb
+GRAPHIC 1,0 27 0 
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 31,0 39 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 42
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 30,0 46 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 49
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 2,0 73 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 74
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 522,0 77 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 576,0 78 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 962,0 79 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 80
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 2,0 84 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 85
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 2,0 88 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 89
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 70,0 90 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 93
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 60,0 97 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 98
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 2,0 102 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 43,0 103 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 58,0 104 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 279,0 105 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 294,0 106 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 441,0 107 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 456,0 108 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 613,0 109 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 628,0 110 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 728,0 111 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 743,0 112 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 774,0 113 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 789,0 114 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 811,0 115 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 826,0 116 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 117
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 2,0 119 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 120
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 2,0 121 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 122
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 2,0 124 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 125
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 522,0 135 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 576,0 136 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 962,0 137 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 2,0 138 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 43,0 139 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 485,0 140 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 176,0 141 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 274,0 142 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 252,0 143 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 311,0 144 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 176,0 145 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 146
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 176,0 147 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 148
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 252,0 149 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 387,0 150 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 728,0 151 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 301,0 152 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 962,0 153 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 155
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 252,0 156 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 157
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 279,0 158 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 176,0 159 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 441,0 160 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 691,0 161 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 468,0 162 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 522,0 163 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 485,0 165 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 176,0 166 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 522,0 167 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 571,0 168 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 549,0 169 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 170
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 522,0 171 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 172
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 549,0 173 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 576,0 174 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 608,0 177 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 441,0 178 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 179
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 576,0 180 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 181
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 613,0 182 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 43,0 183 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 691,0 184 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 655,0 185 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 43,0 186 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 635,0 187 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 613,0 188 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 189
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 691,0 190 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 191
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 728,0 192 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 774,0 193 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 833,0 195 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 811,0 196 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 853,0 197 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 485,0 198 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 199
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 774,0 200 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 201
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 811,0 202 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 468,0 203 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 962,0 204 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 984,0 205 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 279,0 206 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 207
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 962,0 208 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 209
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 93,0 210 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 212
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 2,0 213 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 214
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 2,0 216 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 217
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 30,0 226 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 229
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 2,0 231 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 176,0 232 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 191,0 233 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 252,0 234 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 267,0 235 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 279,0 237 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 294,0 238 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 468,0 239 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 483,0 240 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 485,0 241 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 500,0 242 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 549,0 244 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 564,0 245 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 962,0 247 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 977,0 248 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 250
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 2,0 252 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 254
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 2,0 256 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 262
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+GRAPHIC 2,0 265 0
+LIBRARY alien_game_lib
+DESIGN c5_t3_register_bank_to_serial_data
+VIEW fsm.sm
+NO_GRAPHIC 287

@@ -1,0 +1,312 @@
+DESIGN c4_t4_shield_initial_reset
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c4_t4_shield_initial_reset
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c4_t4_shield_initial_reset
+VIEW symbol.sb
+GRAPHIC 116,0 14 0 
+DESIGN c4_t4_shield_initial_reset
+VIEW symbol.sb
+GRAPHIC 121,0 15 0 
+DESIGN c4_t4_shield_initial_reset
+VIEW symbol.sb
+GRAPHIC 131,0 16 0 
+DESIGN c4_t4_shield_initial_reset
+VIEW symbol.sb
+GRAPHIC 126,0 17 0 
+DESIGN c4_t4_shield_initial_reset
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN c4_t4_shield_initial_reset
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 31,0 33 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 36
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 2,0 52 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 53
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 233,0 56 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 420,0 57 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 58
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 2,0 62 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 63
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 2,0 66 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 67
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 70,0 68 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 60,0 71 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 72
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 2,0 75 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 76
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 2,0 78 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 79
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 233,0 86 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 420,0 87 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 2,0 88 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 43,0 89 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 282,0 90 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 260,0 91 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 368,0 92 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 43,0 93 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 94
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 43,0 95 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 96
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 233,0 97 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 319,0 98 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 297,0 99 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 100
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 233,0 101 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 102
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 260,0 103 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 233,0 104 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 297,0 106 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 420,0 107 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 373,0 109 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 420,0 111 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 452,0 112 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 373,0 113 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 114
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 420,0 115 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 116
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 93,0 117 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 119
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 2,0 120 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 121
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 2,0 123 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 124
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 30,0 129 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 131
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 2,0 133 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 233,0 134 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 248,0 135 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 260,0 136 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 275,0 137 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 297,0 138 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 312,0 139 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 373,0 140 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 388,0 141 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 420,0 143 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 435,0 144 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 145
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 2,0 147 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 149
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 2,0 151 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 156
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+GRAPHIC 2,0 159 0
+LIBRARY alien_game_lib
+DESIGN c4_t4_shield_initial_reset
+VIEW fsm.sm
+NO_GRAPHIC 179

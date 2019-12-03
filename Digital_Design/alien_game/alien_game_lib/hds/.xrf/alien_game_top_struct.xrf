@@ -1,0 +1,245 @@
+DESIGN alien_game_top
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN alien_game_top
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN alien_game_top
+VIEW symbol.sb
+GRAPHIC 702,0 14 0 
+DESIGN alien_game_top
+VIEW symbol.sb
+GRAPHIC 734,0 15 0 
+DESIGN alien_game_top
+VIEW symbol.sb
+GRAPHIC 739,0 16 0 
+DESIGN alien_game_top
+VIEW symbol.sb
+GRAPHIC 779,0 17 0 
+DESIGN alien_game_top
+VIEW symbol.sb
+GRAPHIC 799,0 18 0 
+DESIGN alien_game_top
+VIEW symbol.sb
+GRAPHIC 789,0 19 0 
+DESIGN alien_game_top
+VIEW symbol.sb
+GRAPHIC 794,0 20 0 
+DESIGN alien_game_top
+VIEW symbol.sb
+GRAPHIC 784,0 21 0 
+DESIGN alien_game_top
+VIEW symbol.sb
+GRAPHIC 804,0 22 0 
+DESIGN alien_game_top
+VIEW symbol.sb
+GRAPHIC 1,0 25 0 
+DESIGN alien_game_top
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
+DESIGN alien_game_top
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 41,0 38 0 
+DESIGN alien_game_top
+VIEW struct.bd
+NO_GRAPHIC 41
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 0,0 44 2 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2258,0 49 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2264,0 50 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2296,0 51 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2240,0 52 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2246,0 53 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2252,0 54 0 
+DESIGN alien_game_top
+VIEW struct.bd
+NO_GRAPHIC 55
+DESIGN alien_game_top
+VIEW struct.bd
+NO_GRAPHIC 56
+LIBRARY alien_game_lib
+DESIGN display_controller_v2
+VIEW struct
+GRAPHIC 2528,0 58 0 
+DESIGN display_controller_v2
+VIEW symbol.sb
+GRAPHIC 201,0 60 0 
+DESIGN display_controller_v2
+VIEW symbol.sb
+GRAPHIC 146,0 61 0 
+DESIGN display_controller_v2
+VIEW symbol.sb
+GRAPHIC 186,0 62 0 
+DESIGN display_controller_v2
+VIEW symbol.sb
+GRAPHIC 161,0 63 0 
+DESIGN display_controller_v2
+VIEW symbol.sb
+GRAPHIC 176,0 64 0 
+DESIGN display_controller_v2
+VIEW symbol.sb
+GRAPHIC 191,0 65 0 
+DESIGN display_controller_v2
+VIEW symbol.sb
+GRAPHIC 196,0 66 0 
+DESIGN display_controller_v2
+VIEW symbol.sb
+GRAPHIC 136,0 67 0 
+DESIGN display_controller_v2
+VIEW symbol.sb
+GRAPHIC 171,0 68 0 
+DESIGN display_controller_v2
+VIEW symbol.sb
+GRAPHIC 181,0 69 0 
+DESIGN display_controller_v2
+VIEW symbol.sb
+GRAPHIC 141,0 70 0 
+DESIGN display_controller_v2
+VIEW symbol.sb
+GRAPHIC 156,0 71 0 
+DESIGN display_controller_v2
+VIEW symbol.sb
+GRAPHIC 151,0 72 0 
+DESIGN display_controller_v2
+VIEW symbol.sb
+GRAPHIC 166,0 73 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2230,0 76 0 
+DESIGN game_logic
+VIEW symbol.sb
+GRAPHIC 166,0 78 0 
+DESIGN game_logic
+VIEW symbol.sb
+GRAPHIC 126,0 79 0 
+DESIGN game_logic
+VIEW symbol.sb
+GRAPHIC 131,0 80 0 
+DESIGN game_logic
+VIEW symbol.sb
+GRAPHIC 288,0 81 0 
+DESIGN game_logic
+VIEW symbol.sb
+GRAPHIC 161,0 82 0 
+DESIGN game_logic
+VIEW symbol.sb
+GRAPHIC 136,0 83 0 
+DESIGN game_logic
+VIEW symbol.sb
+GRAPHIC 141,0 84 0 
+DESIGN game_logic
+VIEW symbol.sb
+GRAPHIC 151,0 85 0 
+DESIGN game_logic
+VIEW symbol.sb
+GRAPHIC 156,0 86 0 
+LIBRARY alien_game_lib
+DESIGN alien_game_top
+VIEW struct.bd
+NO_GRAPHIC 89
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2528,0 92 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2230,0 93 0 
+DESIGN alien_game_top
+VIEW struct.bd
+NO_GRAPHIC 96
+DESIGN alien_game_top
+VIEW struct.bd
+NO_GRAPHIC 98
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2528,0 100 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2272,0 102 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2266,0 103 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2260,0 104 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2278,0 105 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2242,0 106 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2248,0 107 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2254,0 108 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2380,0 109 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2404,0 110 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2392,0 111 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2398,0 112 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2386,0 113 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2410,0 114 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2298,0 115 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2230,0 117 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2312,0 119 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2272,0 120 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2278,0 121 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2298,0 122 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2260,0 123 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2266,0 124 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2242,0 125 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2248,0 126 0 
+DESIGN alien_game_top
+VIEW struct.bd
+GRAPHIC 2254,0 127 0 
+DESIGN alien_game_top
+VIEW struct.bd
+NO_GRAPHIC 130

@@ -1,0 +1,209 @@
+DESIGN register_controller_tester
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 217,0 14 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 680,0 15 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 712,0 16 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 232,0 17 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 257,0 18 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 262,0 19 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 227,0 20 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 237,0 21 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 242,0 22 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 717,0 23 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
+DESIGN register_controller_tester
+VIEW symbol.sb
+GRAPHIC 1,0 27 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+NO_GRAPHIC 30
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 185,0 39 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+NO_GRAPHIC 42
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 0,0 45 2 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 409,0 50 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 461,0 51 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 698,0 52 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 714,0 53 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 471,0 54 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+NO_GRAPHIC 55
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 359,0 57 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 351,0 58 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+NO_GRAPHIC 60
+LIBRARY tb_lib
+DESIGN reg_ctrl_gen
+VIEW testbench
+GRAPHIC 612,0 62 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+NO_GRAPHIC 70
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 544,0 72 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+NO_GRAPHIC 84
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 586,0 86 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+NO_GRAPHIC 96
+LIBRARY tb_lib
+DESIGN register_controller_tester
+VIEW struct.bd
+NO_GRAPHIC 98
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 612,0 101 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 544,0 102 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 586,0 103 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+NO_GRAPHIC 106
+DESIGN register_controller_tester
+VIEW struct.bd
+NO_GRAPHIC 108
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 612,0 110 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 453,0 112 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 463,0 113 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 43,0 114 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 71,0 115 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 700,0 116 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 716,0 117 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 544,0 119 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 15,0 121 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 29,0 122 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 359,0 123 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 57,0 124 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 351,0 125 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 99,0 126 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 401,0 127 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 85,0 128 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 700,0 129 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 716,0 130 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 586,0 132 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 325,0 134 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 333,0 135 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 113,0 136 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 127,0 137 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 271,0 138 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 463,0 139 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 453,0 140 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 401,0 141 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 359,0 145 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+GRAPHIC 351,0 146 0 
+DESIGN register_controller_tester
+VIEW struct.bd
+NO_GRAPHIC 148

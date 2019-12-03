@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom fsm
+DEFAULT_FILE atom c5_t3_register_bank_to_serial_data/fsm.sm

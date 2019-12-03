@@ -1,0 +1,114 @@
+DESIGN c3_t4_4_to_2_encoder
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c3_t4_4_to_2_encoder
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW symbol.sb
+GRAPHIC 118,0 14 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW symbol.sb
+GRAPHIC 128,0 15 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW symbol.sb
+GRAPHIC 133,0 16 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW symbol.sb
+GRAPHIC 138,0 17 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW symbol.sb
+GRAPHIC 123,0 18 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW symbol.sb
+GRAPHIC 1,0 22 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+NO_GRAPHIC 25
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+NO_GRAPHIC 34
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 73,0 38 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 166,0 49 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 168,0 49 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 170,0 49 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 172,0 49 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 174,0 50 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 22,0 51 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 30,0 51 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 38,0 51 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 46,0 51 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 54,0 52 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 24,0 53 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 32,0 53 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 40,0 53 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 48,0 53 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 56,0 54 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 26,0 55 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 34,0 55 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 42,0 55 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 50,0 55 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 58,0 56 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 28,0 57 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 36,0 57 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 44,0 57 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 52,0 57 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 60,0 58 0 
+DESIGN c3_t4_4_to_2_encoder
+VIEW tbl.tt
+GRAPHIC 76,0 63 1 

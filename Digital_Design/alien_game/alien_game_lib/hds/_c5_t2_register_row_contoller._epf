@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom tbl
+DEFAULT_FILE atom c5_t2_register_row_contoller/tbl.tt

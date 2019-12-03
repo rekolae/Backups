@@ -1,0 +1,257 @@
+DESIGN register_tester
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN register_tester
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN register_tester
+VIEW symbol.sb
+GRAPHIC 61,0 14 0 
+DESIGN register_tester
+VIEW symbol.sb
+GRAPHIC 76,0 15 0 
+DESIGN register_tester
+VIEW symbol.sb
+GRAPHIC 51,0 16 0 
+DESIGN register_tester
+VIEW symbol.sb
+GRAPHIC 56,0 17 0 
+DESIGN register_tester
+VIEW symbol.sb
+GRAPHIC 66,0 18 0 
+DESIGN register_tester
+VIEW symbol.sb
+GRAPHIC 71,0 19 0 
+DESIGN register_tester
+VIEW symbol.sb
+GRAPHIC 81,0 20 0 
+DESIGN register_tester
+VIEW symbol.sb
+GRAPHIC 249,0 21 0 
+DESIGN register_tester
+VIEW symbol.sb
+GRAPHIC 239,0 22 0 
+DESIGN register_tester
+VIEW symbol.sb
+GRAPHIC 254,0 23 0 
+DESIGN register_tester
+VIEW symbol.sb
+GRAPHIC 244,0 24 0 
+DESIGN register_tester
+VIEW symbol.sb
+GRAPHIC 1,0 27 0 
+DESIGN register_tester
+VIEW symbol.sb
+GRAPHIC 1,0 28 0 
+DESIGN register_tester
+VIEW struct.bd
+NO_GRAPHIC 31
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 217,0 40 0 
+DESIGN register_tester
+VIEW struct.bd
+NO_GRAPHIC 43
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 0,0 46 2 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 453,0 51 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 471,0 52 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 439,0 53 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 441,0 54 0 
+DESIGN register_tester
+VIEW struct.bd
+NO_GRAPHIC 55
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 659,0 57 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 665,0 58 0 
+DESIGN register_tester
+VIEW struct.bd
+NO_GRAPHIC 60
+LIBRARY tb_lib
+DESIGN reg_tester_rx
+VIEW fsm
+GRAPHIC 756,0 62 0 
+DESIGN reg_tester_rx
+VIEW symbol.sb
+GRAPHIC 316,0 64 0 
+DESIGN reg_tester_rx
+VIEW symbol.sb
+GRAPHIC 326,0 65 0 
+DESIGN reg_tester_rx
+VIEW symbol.sb
+GRAPHIC 331,0 66 0 
+DESIGN reg_tester_rx
+VIEW symbol.sb
+GRAPHIC 346,0 67 0 
+DESIGN reg_tester_rx
+VIEW symbol.sb
+GRAPHIC 321,0 68 0 
+DESIGN reg_tester_rx
+VIEW symbol.sb
+GRAPHIC 336,0 69 0 
+DESIGN reg_tester_rx
+VIEW symbol.sb
+GRAPHIC 341,0 70 0 
+DESIGN reg_tester_rx
+VIEW symbol.sb
+GRAPHIC 351,0 71 0 
+DESIGN reg_tester_rx
+VIEW symbol.sb
+GRAPHIC 356,0 72 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 619,0 75 0 
+DESIGN reg_tester_tx
+VIEW symbol.sb
+GRAPHIC 424,0 77 0 
+DESIGN reg_tester_tx
+VIEW symbol.sb
+GRAPHIC 434,0 78 0 
+DESIGN reg_tester_tx
+VIEW symbol.sb
+GRAPHIC 439,0 79 0 
+DESIGN reg_tester_tx
+VIEW symbol.sb
+GRAPHIC 512,0 80 0 
+DESIGN reg_tester_tx
+VIEW symbol.sb
+GRAPHIC 429,0 81 0 
+DESIGN reg_tester_tx
+VIEW symbol.sb
+GRAPHIC 444,0 82 0 
+DESIGN reg_tester_tx
+VIEW symbol.sb
+GRAPHIC 449,0 83 0 
+DESIGN reg_tester_tx
+VIEW symbol.sb
+GRAPHIC 454,0 84 0 
+DESIGN reg_tester_tx
+VIEW symbol.sb
+GRAPHIC 459,0 85 0 
+DESIGN reg_tester_tx
+VIEW symbol.sb
+GRAPHIC 464,0 86 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 645,0 89 0 
+DESIGN register_tester
+VIEW struct.bd
+NO_GRAPHIC 95
+LIBRARY tb_lib
+DESIGN register_tester
+VIEW struct.bd
+NO_GRAPHIC 97
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 756,0 100 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 619,0 101 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 645,0 102 0 
+DESIGN register_tester
+VIEW struct.bd
+NO_GRAPHIC 105
+DESIGN register_tester
+VIEW struct.bd
+NO_GRAPHIC 107
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 756,0 109 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 323,0 111 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 43,0 112 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 315,0 113 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 361,0 114 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 445,0 115 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 463,0 116 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 349,0 117 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 417,0 118 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 431,0 119 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 619,0 121 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 659,0 123 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 665,0 124 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 349,0 125 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 85,0 126 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 29,0 127 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 361,0 128 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 71,0 129 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 99,0 130 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 389,0 131 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 403,0 132 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 645,0 134 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 15,0 136 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 57,0 137 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 445,0 138 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 463,0 139 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 659,0 143 0 
+DESIGN register_tester
+VIEW struct.bd
+GRAPHIC 665,0 144 0 
+DESIGN register_tester
+VIEW struct.bd
+NO_GRAPHIC 146

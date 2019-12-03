@@ -1,0 +1,3 @@
+TYPE atom VHDL_GATE_TEXT
+TOP_ENTITY atom c2_t7_basic_alien
+TOP_ARCHITECTURE atom struct

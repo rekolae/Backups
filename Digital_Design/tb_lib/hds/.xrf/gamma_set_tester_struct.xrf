@@ -1,0 +1,140 @@
+DESIGN gamma_set_tester
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 196,0 14 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 216,0 15 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 221,0 16 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 201,0 17 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 1351,0 18 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 206,0 19 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 1381,0 20 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 1,0 23 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 1,0 24 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+NO_GRAPHIC 27
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 137,0 36 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+NO_GRAPHIC 39
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 0,0 42 2 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 453,0 47 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+NO_GRAPHIC 48
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 318,0 50 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 300,0 51 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+NO_GRAPHIC 53
+LIBRARY tb_lib
+DESIGN gamma_sequence_receiver
+VIEW rtl
+GRAPHIC 402,0 55 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+NO_GRAPHIC 65
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 205,0 67 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+NO_GRAPHIC 73
+LIBRARY tb_lib
+DESIGN gamma_set_tester
+VIEW struct.bd
+NO_GRAPHIC 75
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 402,0 78 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 205,0 79 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+NO_GRAPHIC 82
+DESIGN gamma_set_tester
+VIEW struct.bd
+NO_GRAPHIC 84
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 402,0 86 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 15,0 88 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 318,0 89 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 300,0 90 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 85,0 91 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 247,0 92 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 439,0 93 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 455,0 94 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 533,0 95 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 205,0 97 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 29,0 99 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 43,0 100 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 71,0 101 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 455,0 102 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 318,0 106 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+GRAPHIC 300,0 107 0 
+DESIGN gamma_set_tester
+VIEW struct.bd
+NO_GRAPHIC 109

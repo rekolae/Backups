@@ -1,0 +1,102 @@
+DESIGN tb_pixel_conf
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN tb_pixel_conf
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN tb_pixel_conf
+VIEW symbol.sb
+GRAPHIC 1,0 13 0 
+DESIGN tb_pixel_conf
+VIEW symbol.sb
+GRAPHIC 1,0 14 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+NO_GRAPHIC 17
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 41,0 26 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 0,0 33 2 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 167,0 38 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 151,0 39 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 159,0 40 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+NO_GRAPHIC 41
+DESIGN tb_pixel_conf
+VIEW struct.bd
+NO_GRAPHIC 42
+LIBRARY alien_game_lib
+DESIGN c1_t3_hello_led
+VIEW struct
+GRAPHIC 417,0 44 0 
+DESIGN c1_t3_hello_led
+VIEW symbol.sb
+GRAPHIC 124,0 46 0 
+DESIGN c1_t3_hello_led
+VIEW symbol.sb
+GRAPHIC 114,0 47 0 
+DESIGN c1_t3_hello_led
+VIEW symbol.sb
+GRAPHIC 119,0 48 0 
+LIBRARY tb_lib
+DESIGN pixel_conf_tester
+VIEW testbench
+GRAPHIC 193,0 51 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+NO_GRAPHIC 56
+LIBRARY tb_lib
+DESIGN tb_pixel_conf
+VIEW struct.bd
+NO_GRAPHIC 58
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 417,0 61 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 193,0 62 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+NO_GRAPHIC 65
+DESIGN tb_pixel_conf
+VIEW struct.bd
+NO_GRAPHIC 67
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 417,0 69 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 169,0 71 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 153,0 72 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 161,0 73 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 193,0 75 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 169,0 77 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 153,0 78 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+GRAPHIC 161,0 79 0 
+DESIGN tb_pixel_conf
+VIEW struct.bd
+NO_GRAPHIC 82
