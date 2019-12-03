@@ -1,0 +1,16 @@
+{
+  "name": "exercise_3.2",
+  "version": "1.0.0",
+  "description": "Express server that displays a page where the user can set the page background color",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emil Rekola",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-sanitizer": "^1.0.5",
+    "express-session": "^1.17.0"
+  }
+}
