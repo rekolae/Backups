@@ -1,0 +1,16 @@
+<div id="exercise" class="container">
+    <div class="row mt-5">
+        <div class="col-md-6 m-auto">
+            <div class="card card-body">
+                {{>messages}}
+                <h3 id="title" class="text-center mb-3">{{title}}</h3>
+                <h4 class="instructions text-left mb-2">Select your answers and click submit</h4>
+                <br>
+                <form method="POST">
+                    {{{options}}}
+                    <button id="grade" type="submit" class="btn btn-primary">Grade</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

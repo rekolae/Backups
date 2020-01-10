@@ -1,0 +1,27 @@
+
+<div>
+    <div class="container">
+          <div class="row mt-5">
+              <div class="col-md-6 m-auto">
+                  <div class="card card-body">
+                    {{#if error}}
+                    <div class="alert alert-danger">
+                      {{message}}
+                    </div>
+                    {{else}}
+                      <div class="alert alert-success">
+                          Submission successful, you got {{points}} of {{maxPoints}} points!
+                      </div>
+                      <div>
+                          <form method="POST">
+                            {{{feedback}}}
+                            <button id="grade" type="submit" class="btn btn-primary">Grade</button>
+                            <a class="btn btn btn-outline-info col-md-6 float-right" {{{link}}}>Back to questionnaire</a>
+                          </form>
+                      </div>
+                    {{/if}}
+                  </div>
+              </div>
+          </div>
+    </div>
+</div>

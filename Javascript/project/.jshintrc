@@ -1,0 +1,10 @@
+{
+  "undef": true,
+  "unused": true,
+  "esversion": 9,
+  "node": true,
+  "browser": true,
+  "globals": {
+        "$": false
+    }
+}

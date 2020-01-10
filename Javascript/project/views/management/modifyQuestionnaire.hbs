@@ -1,0 +1,91 @@
+{{>modifyQuestionnaire_scripts}}
+
+<div id="modifyQuestionnaireView" class="container">
+    <div class="row mt-5">
+        <div class="col-md-10 m-auto">
+            <div class="card card-body">
+                {{>messages}}
+                <h3 id="title" class="text-center mb-3"><i class="fas fa-edit"></i> Modify questionnaire</h3>
+                <div class="mt-4">
+
+                    <!-- Questionnaire title and submission amount -->
+                    <form action="{{_id}}/update" method="post">
+                        <div class="form-row ">
+                            <div class="form-group col-md-8">
+                                <label for="questionnaireTitle">Questionnaire title</label>
+                                <input type="text" class="form-control" id="questionnaireTitle" name="questionnaireTitle" placeholder="Some unique and fabulous title" value="{{title}}">
+                            </div>
+                            <div class="form-group col-md-4">
+                                <label for="submissions">Submission amount</label>
+                                <input type="text" class="form-control" id="submissions" name="submissions" placeholder="Number of submissions" value="{{submissions}}">
+                            </div>
+                        </div>
+
+                        {{#each questions}}
+                        <!-- Question #{{@index}} title and maximum points -->
+                        <div id="Q_{{@index}}" class="card mb-1 mt-1">
+                            <div class="card-body" id="Q_{{@index}}.body">
+                                <div class="form-row mb-2">
+                                    <div class="form-group col-md-8">
+                                        <label for="Q_{{@index}}.title">Question title</label>
+                                        <input type="text" class="form-control" id="Q_{{@index}}.title" name="Q_{{@index}}.title" placeholder="Another unique and fabulous title" value="{{title}}">
+                                    </div>
+                                    <div class="form-group col-md-4">
+                                        <label for="Q_{{@index}}.maxPoints">Max points</label>
+                                        <input type="text" class="form-control" id="Q_{{@index}}.maxPoints" name="Q_{{@index}}.maxPoints" placeholder="666" value="{{maxPoints}}">
+                                    </div>
+                                </div>
+
+                                {{#each options}}
+                                <!-- Question #{{@../index}} choice #{{@index}} -->
+                                <div id="Q_{{@../index}}.C_{{@index}}" class="form-row mb-2">
+                                    <div class="form-group col">
+                                        <label for="Q_{{@../index}}.C_{{@index}}.title">Choice</label>
+                                        <input type="text" class="form-control" id="Q_{{@../index}}.C_{{@index}}.title" name="Q_{{@../index}}.C_{{@index}}.title" placeholder="Something something?" value="{{this.option}}">
+                                    </div>
+                                    <div class="form-group col">
+                                        <label for="Q_{{@../index}}.C_{{@index}}.correctness">Correctness</label>
+                                        <select id="Q_{{@../index}}.C_{{@index}}.correctness" name="Q_{{@../index}}.C_{{@index}}.correctness" class="form-control">
+                                            {{#if correctness}}
+                                                <option value="true" selected>True</option>
+                                                <option value="false">False</option>
+                                            {{else}}
+                                                <option value="true">True</option>
+                                                <option value="false" selected>False</option>
+                                            {{/if}}
+                                        </select>
+                                    </div>
+                                    <div class="form-group col">
+                                        <label for="Q_{{@../index}}.C_{{@index}}.hint">Hint</label>
+                                        <input type="text" class="form-control" id="Q_{{@../index}}.C_{{@index}}.hint" name="Q_{{@../index}}.C_{{@index}}.hint" placeholder="Hint hint ;)" value="{{hint}}">
+                                    </div>
+                                    <div>
+                                        <button id="Q_{{@../index}}.C_{{@index}}.delete" type="button" class="btn btn-outline-danger" style="margin-top: 70%" onclick="window.location.href='/management/delete/grandparentId/{{../../_id}}/parentId/{{../_id}}/id/{{_id}}';"><i class="fas fa-backspace"></i></button>
+                                    </div>
+                                </div>
+                                {{/each}}
+
+                                <div>
+                                    <button id="Q_{{@index}}.addChoice" type="button" class="btn btn-outline-primary float-left"><i class="fas fa-plus-square"></i> Add choice</button>
+                                    <button id="Q_{{@index}}.deleteQuestion" type="button" class="btn btn-outline-danger float-right" onclick="window.location.href='/management/delete/parentId/{{../_id}}/id/{{_id}}';"><i class="fas fa-file-excel"></i> Delete Question</button>
+                                </div>
+                            </div>
+                        </div>
+                        {{/each}}
+
+
+                        <div>
+                            <button id="addQuestion" type="button" class="btn btn-outline-primary float-left"><i class="fas fa-plus-square"></i> Add question</button>
+                        </div>
+
+                        <div class="py-5">
+                            <input type="submit" class="btn btn-primary float-left">
+                            <button onclick="window.location.href='/management';" type="button" class="btn btn-outline-danger float-right">Cancel</button>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

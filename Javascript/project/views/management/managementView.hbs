@@ -1,0 +1,67 @@
+{{>managementView_script}}
+
+<div id="managementView" class="container">
+    <div class="row mt-5">
+        <div class="col-md-10 m-auto">
+            <div class="card card-body">
+                {{>messages}}
+                <h3 id="title" class="text-center mb-3"><i class="fas fa-tools"></i> Management view</h3>
+                <div class="text-center my-2">
+                    <p>This is a simple paragraph <br> Just testing some layout stuff</p>
+                </div>
+                <div>
+                    <p>
+                        <button id="searchButton" class="btn btn-info" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                            Search
+                        </button>
+                    </p>
+                    <div class="collapse" id="collapseExample">
+                        <div class="mb-2 card card-body">
+                            <div class="md-form mt-0">
+                                <input id="searchBox" class="form-control" type="text" placeholder="Search" aria-label="Search">
+                                <small id="searchHelpBlock" class="form-text text-muted">
+                                    Search word is case sensitive
+                                </small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{>deleteModal}}
+                <div class="card">
+                    <h5 class="card-header">Questionnaires <button onclick="window.location.href='/management/create';" type="button" class="btn btn-outline-success float-right">Add questionnaire</button></h5>
+                    <div class="card-body">
+                    {{#each this}}
+                    {{#if title}}
+                        <div id="accordion{{@index}}">
+                            <div class="card-header" id="heading{{@index}}">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" data-toggle="collapse" data-target="#collapse{{@index}}" aria-expanded="true" aria-controls="collapse{{@index}}">
+                                        {{title}}
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapse{{@index}}" class="collapse show" aria-labelledby="heading{{@index}}" data-parent="#accordion{{@index}}">
+                                <div class="card-body">
+                                    <ul style="list-style-type:none;">
+                                        <li >Num of submissions: {{submissions}}</li>
+                                        <li>Questions:</li>
+                                            <ul>
+                                                {{#each questions}}
+                                                    <li>{{title}}</li>
+                                                {{/each}}
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <button id="modifyBtn{{@index}}" onclick="window.location.href='/management/modify/id/{{_id}}';" type="button" class="btn btn-outline-warning">Modify</button>
+                                    <button id="deleteBtn{{@index}}" type="button" class="btn btn-outline-danger" data-id="{{_id}}" data-toggle="modal" data-target="#deleteModal" data-type="questionnaire">Delete</button>
+                                </div>
+                            </div>
+                        </div>
+                    {{/if}}
+                    {{/each}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

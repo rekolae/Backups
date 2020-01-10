@@ -1,0 +1,98 @@
+{{>createQuestionnaire_scripts}}
+
+<div id="managementView" class="container">
+    <div class="row mt-5">
+        <div class="col-md-10 m-auto">
+            <div class="card card-body">
+                {{>messages}}
+                <h3 id="managementTitle" class="text-center mb-3"><i class="fas fa-edit"></i>
+                    Create a new questionnaire <button type="button" class="btn btn-outline-info float-right" data-toggle="modal" data-target="#uploadModal">Upload JSON</button>
+                </h3>
+                {{>uploadModal}}
+                <div class="mt-4">
+
+                    <!-- Questionnaire title and submission amount -->
+                    <form action="create/type/form" method="post">
+                        <div class="form-row ">
+                            <div class="form-group col-md-8">
+                                <label for="questionnaireTitle">Questionnaire title</label>
+                                <input type="text" class="form-control" id="questionnaireTitle" name="questionnaireTitle" placeholder="Some unique and fabulous title">
+                            </div>
+                            <div class="form-group col-md-4">
+                                <label for="submissions">Submission amount</label>
+                                <input type="text" class="form-control" id="submissions" name="submissions" placeholder="Number of submissions">
+                            </div>
+                        </div>
+
+                        <!-- Question #0 title and maximum points -->
+                        <div id="Q_0" class="card mb-1 mt-1">
+                            <div class="card-body" id="Q_0.body">
+                                <div class="form-row mb-2">
+                                    <div class="form-group col-md-8">
+                                        <label for="Q_0.title">Question title</label>
+                                        <input type="text" class="form-control" id="Q_0.title" name="Q_0.title" placeholder="Another unique and fabulous title">
+                                    </div>
+                                    <div class="form-group col-md-4">
+                                        <label for="Q_0.maxPoints">Max points</label>
+                                        <input type="text" class="form-control" id="Q_0.maxPoints" name="Q_0.maxPoints" placeholder="666">
+                                    </div>
+                                </div>
+
+                                <!-- Question #0 choice #0 -->
+                                <div id="Q_0.C_0" class="form-row mb-2">
+                                    <div class="form-group col-md-4">
+                                        <label for="Q_0.C_0.title">Choice</label>
+                                        <input type="text" class="form-control" id="Q_0.C_0.title" name="Q_0.C_0.title" placeholder="Something something?">
+                                    </div>
+                                    <div class="form-group col-md-4">
+                                        <label for="Q_0.C_0.correctness">Correctness</label>
+                                        <select id="Q_0.C_0.correctness" name="Q_0.C_0.correctness" class="form-control">
+                                            <option value="true">True</option>
+                                            <option value="false">False</option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group col-md-4">
+                                        <label for="Q_0.C_0.hint">Hint</label>
+                                        <input type="text" class="form-control" id="Q_0.C_0.hint" name="Q_0.C_0.hint" placeholder="Hint hint ;)">
+                                    </div>
+                                </div>
+
+                                <!-- Question #0 choice #1 -->
+                                <div id="Q_0.C_1" class="form-row mb-2">
+                                    <div class="form-group col-md-4">
+                                        <label for="Q_0.C_1.title">Choice</label>
+                                        <input type="text" class="form-control" id="Q_0.C_1.title" name="Q_0.C_1.title" placeholder="Something something?">
+                                    </div>
+                                    <div class="form-group col-md-4">
+                                        <label for="Q_0.C_1.correctness">Correctness</label>
+                                        <select id="Q_0.C_1.correctness" name="Q_0.C_1.correctness" class="form-control">
+                                            <option value="true">True</option>
+                                            <option value="false">False</option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group col-md-4">
+                                        <label for="Q_0.C_1.hint">Hint</label>
+                                        <input type="text" class="form-control" id="Q_0.C_1.hint" name="Q_0.C_1.hint" placeholder="Hint hint ;)">
+                                    </div>
+                                </div>
+                                <div>
+                                    <button id="Q_0.addChoice" type="button" class="btn btn-outline-primary float-left"><i class="fas fa-plus-square"></i> Add choice</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <button id="addQuestion" type="button" class="btn btn-outline-primary float-left"><i class="fas fa-plus-square"></i> Add question</button>
+                        </div>
+
+                        <div class="py-5">
+                            <input type="submit" class="btn btn-primary float-left"></input>
+                            <button onclick="window.location.href='/management';" type="button" class="btn btn-outline-danger float-right">Cancel</button>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

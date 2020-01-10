@@ -1,0 +1,90 @@
+
+{
+    "title" : "Questionnaire title",
+    "submissions": 5,
+    "questions": [
+        {
+            "title": "Question 1 title",
+            "maxPoints" : 1,
+            "options" : [
+                {
+                    "option" : "option 1",
+                    "correctness" : "false",
+                    "hint" : "hint1"
+                },
+                {
+                    "option" : "option 2",
+                    "correctness" : "false",
+                    "hint" : "hint2"
+                },
+                {
+                    "option" : "option 3",
+                    "correctness" : "false",
+                    "hint" : "hint3"
+                },
+                {
+                    "option" : "option 4",
+                    "correctness" : "true",
+                    "hint" : ""
+                }
+            ]
+        },
+        {
+            "title": "Question 2 title",
+            "maxPoints" : 2,
+            "options" : [
+                {
+                    "option" : "option 1",
+                    "correctness" : "false",
+                    "hint" : "hint1"
+                },
+                {
+                    "option" : "option 2",
+                    "correctness" : "false",
+                    "hint" : "hint2"
+                }
+            ]
+        },
+        {
+            "title": "Question title 3",
+            "maxPoints" : 10,
+            "options" : [
+                {
+                    "option" : "option 1",
+                    "correctness" : "false",
+                    "hint" : "hint1"
+                },
+                {
+                    "option" : "option 2",
+                    "correctness" : "false",
+                    "hint" : "hint2"
+                },
+                {
+                    "option" : "option 3",
+                    "correctness" : "false",
+                    "hint" : "hint3"
+                },
+                {
+                    "option" : "option 4",
+                    "correctness" : "true",
+                    "hint" : ""
+                },
+                {
+                    "option" : "option 5",
+                    "correctness" : "false",
+                    "hint" : "hint5"
+                },
+                {
+                    "option" : "option 6",
+                    "correctness" : "false",
+                    "hint" : "hint6"
+                },
+                {
+                    "option" : "option 7",
+                    "correctness" : "true",
+                    "hint" : ""
+                }
+            ]
+        }
+    ]
+}

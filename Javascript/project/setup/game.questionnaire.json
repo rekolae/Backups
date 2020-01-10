@@ -1,0 +1,782 @@
+[
+    {
+        "title": "Count without a calculator",
+        "submissions": 1,
+        "questions": [
+            {
+                "title": "Select the calculations that result in 40",
+                "maxPoints": 10,
+                "options": [
+                    {
+                        "option": "25 + 15",
+                        "correctness": true
+                    },
+                    {
+                        "option": "10 + 25",
+                        "correctness": false
+                    },
+                    {
+                        "option": "66 - 26",
+                        "correctness": false
+                    },
+                    {
+                        "option": "27 + 23",
+                        "correctness": false
+                    },
+                    {
+                        "option": "10 * 4",
+                        "correctness": true
+                    },
+                    {
+                        "option": "51 - 9",
+                        "correctness": false
+                    },
+                    {
+                        "option": "31 + 9",
+                        "correctness": true
+                    },
+                    {
+                        "option": "20 - 60",
+                        "correctness": false
+                    },
+                    {
+                        "option": "13 + 27",
+                        "correctness": true
+                    },
+                    {
+                        "option": "6 * 6",
+                        "correctness": false
+                    },
+                    {
+                        "option": "8 * 5",
+                        "correctness": true
+                    },
+                    {
+                        "option": "7 * 7",
+                        "correctness": false
+                    },
+                    {
+                        "option": "17 * 3",
+                        "correctness": false
+                    },
+                    {
+                        "option": "27 + 14",
+                        "correctness": false
+                    },
+                    {
+                        "option": "32 - 8",
+                        "correctness": false
+                    },
+                    {
+                        "option": "13 + 26",
+                        "correctness": false
+                    },
+                    {
+                        "option": "19 - 21",
+                        "correctness": false
+                    },
+                    {
+                        "option": "60 - 20",
+                        "correctness": true
+                    },
+                    {
+                        "option": "48 - 7",
+                        "correctness": false
+                    },
+                    {
+                        "option": "56 - 26",
+                        "correctness": false
+                    },
+                    {
+                        "option": "16 + 24",
+                        "correctness": true
+                    },
+                    {
+                        "option": "39 + 11",
+                        "correctness": false
+                    },
+                    {
+                        "option": "29 + 21",
+                        "correctness": false
+                    },
+                    {
+                        "option": "157 - 127",
+                        "correctness": false
+                    },
+                    {
+                        "option": "8 + 31",
+                        "correctness": false
+                    },
+                    {
+                        "option": "29 + 11",
+                        "correctness": true
+                    },
+                    {
+                        "option": "42 + 8",
+                        "correctness": false
+                    },
+                    {
+                        "option": "31 - 9",
+                        "correctness": false
+                    },
+                    {
+                        "option": "18 + 32",
+                        "correctness": false
+                    },
+                    {
+                        "option": "32 + 8",
+                        "correctness": true
+                    },
+                    {
+                        "option": "12 * 4",
+                        "correctness": false
+                    },
+                    {
+                        "option": "25 + 25",
+                        "correctness": false
+                    },
+                    {
+                        "option": "19 + 21",
+                        "correctness": true
+                    },
+                    {
+                        "option": "152 + 113",
+                        "correctness": false
+                    },
+                    {
+                        "option": "98 - 48",
+                        "correctness": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Larger questionnaire to check switching questions, max 15",
+        "submissions": 1,
+        "questions": [
+            {
+                "title": "Which counties are Finland's neighbours?",
+                "maxPoints": 4,
+                "options": [
+                    {
+                        "option": "Ruotsi",
+                        "correctness": true
+                    },
+                    {
+                        "option": "Tanska",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Islanti",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Puola",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Venäjä",
+                        "correctness": true
+                    },
+                    {
+                        "option": "Suomi",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Viro",
+                        "correctness": true
+                    },
+                    {
+                        "option": "Tallinna",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Norja",
+                        "correctness": true
+                    },
+                    {
+                        "option": "Oslo",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Moskova",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Tukholma",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Kööpenhamina",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Saksa",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Helsinki",
+                        "correctness": false
+                    }
+                ]
+            },
+            {
+                "title": "Which cities are capitals?",
+                "maxPoints": 6,
+                "options": [
+                    {
+                        "option": "Tukholma",
+                        "correctness": true
+                    },
+                    {
+                        "option": "Göteborg",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Saltzburg",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Köln",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Berliini",
+                        "correctness": true
+                    },
+                    {
+                        "option": "Tampere",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Tallinna",
+                        "correctness": true
+                    },
+                    {
+                        "option": "Frankfurt",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Wien",
+                        "correctness": true
+                    },
+                    {
+                        "option": "Oslo",
+                        "correctness": true
+                    },
+                    {
+                        "option": "New York",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Osaka",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Boston",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Edmonton",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Helsinki",
+                        "correctness": true
+                    }
+                ]
+            },
+            {
+                "title": "Mitkä seuraavista maista sijaitsevat Euroopassa?",
+                "maxPoints": 5,
+                "options": [
+                    {
+                        "option": "Australia",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Puola",
+                        "correctness": true
+                    },
+                    {
+                        "option": "Ranska",
+                        "correctness": true
+                    },
+                    {
+                        "option": "Japani",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Viro",
+                        "correctness": true
+                    },
+                    {
+                        "option": "Tallinna",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Norja",
+                        "correctness": true
+                    },
+                    {
+                        "option": "Helsinki",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Kanada",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Tukholma",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Suomi",
+                        "correctness": true
+                    },
+                    {
+                        "option": "Brasilia",
+                        "correctness": false
+                    },
+                    {
+                        "option": "Intia",
+                        "correctness": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title" : "Our very own magical question set",
+        "submissions": 2,
+        "questions": [
+            {
+                "title": "This is a question... Or is it?",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "yes",
+                        "correctness" : "false",
+                        "hint" : "UwU"
+                    },
+                    {
+                        "option" : "no!",
+                        "correctness" : "false",
+                        "hint" : "Yes?"
+                    },
+                    {
+                        "option" : "maybe",
+                        "correctness" : "false",
+                        "hint" : "probably"
+                    },
+                    {
+                        "option" : "wut?",
+                        "correctness" : "true",
+                        "hint" : ""
+                    }
+                ]
+            },
+            {
+                "title" : "Could this be a question?",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "YES!!!!!",
+                        "correctness" : "false",
+                        "hint" : " U dummie"
+                    },
+                    {
+                        "option" : "I don't care anymore",
+                        "correctness" : "true",
+                        "hint" : ""
+                    }
+                ]
+            },
+            {
+                "title" : "I can't come up with anymore questions.",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "Screw you!",
+                        "correctness" : "true",
+                        "hint" : "Mitaaa"
+                    },
+                    {
+                        "option" : "I believe in you",
+                        "correctness" : "false",
+                        "hint" : "Maybe you should't"
+                    },
+                    {
+                        "option" : "Shrek is love",
+                        "correctness" : "false",
+                        "hint" : "Shrek is life"
+                    }
+                ]
+            },
+            {
+                "title" : "I hve a quston",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "Pineapple",
+                        "correctness" : "false",
+                        "hint" : "On pizza"
+                    },
+                    {
+                        "option" : "Ihminen rankaisee",
+                        "correctness" : "true",
+                        "hint" : ""
+                    },
+                    {
+                        "option" : "Jean-Luc Picard",
+                        "correctness" : "false",
+                        "hint" : "Star trek TNG ftw"
+                    },
+                    {
+                        "option" : "Silence boomer",
+                        "correctness" : "false",
+                        "hint" : "Ok boomer"
+                    }
+                ]
+            },
+            {
+                "title" : "Is javascript fun?",
+                "maxPoints" : 2,
+                "options" : [
+                    {
+                        "option" : "Oh yas, take me daddy JS",
+                        "correctness" : "false",
+                        "hint" : "Stop it, get some help"
+                    },
+                    {
+                        "option" : "It's okay",
+                        "correctness" : "false",
+                        "hint" : "No it's not"
+                    },
+                    {
+                        "option" : "meh",
+                        "correctness" : "true",
+                        "hint" : "mehhhhh"
+                    },
+                    {
+                        "option" : "NOPE",
+                        "correctness" : "true",
+                        "hint" : "You... I like you"
+                    }
+                ]
+            }
+        ]
+    },
+	{
+        "title" : "BWA questionnaire",
+        "submissions": 10,
+        "questions": [
+            {
+                "title": "HTML is used to create Web pages",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "True",
+                        "correctness" : "true"
+                    },
+                    {
+                        "option" : "False",
+                        "correctness" : "false"
+                    }
+                ]
+            },
+            {
+                "title" : "HTML stands for?",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "Hyperlinks and Text Markup Language",
+                        "correctness" : "false"
+                    },
+                    {
+                        "option" : "Hyper Text Markup Language",
+                        "correctness" : "true"
+                    }
+                ]
+            },
+            {
+                "title" : "HTML document should start with",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "<!DOCTYPE html>",
+                        "correctness" : "true"
+                    },
+                    {
+                        "option" : "<body>",
+                        "correctness" : "false"
+                    },
+                    {
+                        "option" : "<head>",
+                        "correctness" : "false"
+                    },
+					 {
+                        "option" : "<meta>",
+                        "correctness" : "false"
+                    }
+                ]
+            },
+            {
+                "title" : "CSS is used for...",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "pages stucture",
+                        "correctness" : "false"
+                    },
+                    {
+                        "option" : "styling the page",
+                        "correctness" : "true"
+                    },
+                    {
+                        "option" : "pages functionality",
+                        "correctness" : "false"
+                    }
+                ]
+            },
+            {
+                "title" : "Select correct ways to insert CSS",
+                "maxPoints" : 3,
+                "options" : [
+                    {
+                        "option" : "<link rel='stylesheet' href='style.css'>",
+                        "correctness" : "true",
+						"hint" : "External CSS"
+                    },
+                    {
+                        "option" : "<CSS> CSS here </CSS>",
+                        "correctness" : "false"
+                    },
+                    {
+                        "option" : "<style> CSS here <style>",
+                        "correctness" : "true",
+						"hint" : "Internal CSS"
+                    },
+                    {
+                        "option" : "<p style='CSS here'>This is a paragraph.</p>",
+                        "correctness" : "true",
+                        "hint" : "Inline CSS"
+                    }
+                ]
+            },
+			 {
+                "title" : "JavaScript is used for...",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "pages stucture",
+                        "correctness" : "false"
+                    },
+                    {
+                        "option" : "styling the page",
+                        "correctness" : "false"
+                    },
+                    {
+                        "option" : "pages functionality",
+                        "correctness" : "true"
+                    }
+                ]
+            },
+			 {
+                "title" : "How to load an external JavaScript",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "<script href='scriptfile.js' ></script>",
+                        "correctness" : "false"
+                    },
+                    {
+                        "option" : "<import rel='javascript' src='scriptfile.js'/>",
+                        "correctness" : "false"
+                    },
+                    {
+                        "option" : "<link rel='javascript' href='scriptfile.js'/>",
+                        "correctness" : "false"
+                    },
+					{
+                        "option" : "<script src='scriptfile.js' ></script>",
+                        "correctness" : "true"
+                    }
+                ]
+            },
+			{
+                "title" : "How can you specify a object with initial values",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "var obj = {type:'fiat', model:'500'}",
+                        "correctness" : "true"
+                    },
+                    {
+                        "option" : "var obj = (type:'fiat', model:'500')",
+                        "correctness" : "false"
+                    },
+                    {
+                        "option" : "var obj = [type:'fiat', model:'500']",
+                        "correctness" : "false"
+                    }
+                ]
+            },
+			{
+                "title" : "S in HTTPS stands for?",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "Safe",
+                        "correctness" : "false"
+                    },
+                    {
+                        "option" : "Secure",
+                        "correctness" : "true"
+                    },
+                    {
+                        "option" : "Sensitive",
+                        "correctness" : "false"
+                    }
+                ]
+            },
+			{
+                "title" : "Status code for succesful HTTP request is?",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "000",
+                        "correctness" : "false"
+                    },
+                    {
+                        "option" : "100",
+                        "correctness" : "false"
+                    },
+                    {
+                        "option" : "200",
+                        "correctness" : "true"
+                    },
+                    {
+                        "option" : "300",
+                        "correctness" : "false"
+                    }
+                ]
+            },
+			{
+                "title" : "Should you sanitize user input?",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "Yes",
+                        "correctness" : "true"
+                    },
+                    {
+                        "option" : "No",
+                        "correctness" : "false"
+                    }    
+                ]
+            },
+			{
+                "title" : "Select valid HTTP request methods",
+                "maxPoints" : 5,
+                "options" : [
+                    {
+                        "option" : "GET",
+                        "correctness" : "true"
+                    },
+                    {
+                        "option" : "POST",
+                        "correctness" : "true"
+                    },
+{
+                        "option" : "PUT",
+                        "correctness" : "true"
+                    },
+                    {
+                        "option" : "PATCH",
+                        "correctness" : "true"
+                    },
+                    {
+                        "option" : "DELETE",
+                        "correctness" : "true"
+                    }  					
+ 					
+                ]
+            },
+			{
+                "title" : "Cookie is a...",
+                "maxPoints" : 2,
+                "options" : [
+                    {
+                        "option" : "small piece of data",
+                        "correctness" : "true"
+                    },
+                    {
+                        "option" : "baked food",
+                        "correctness" : "true"
+                    }		
+                ]
+            },
+			{
+                "title" : "ORM stands for",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "Object Rational Model",
+                        "correctness" : "false"
+                    },
+                    {
+                        "option" : "Object Relational Model",
+                        "correctness" : "true"
+                    }		
+                ]
+            },
+			{
+                "title" : "Password should be stored as",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "hashed passwords",
+                        "correctness" : "true"
+                    },
+                    {
+                        "option" : "plain text",
+                        "correctness" : "false",
+						"Hint" : "NEWER!"
+                    }		
+                ]
+            },
+			{
+                "title" : "Hashed passwords are safe and cannot be hacked",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "false",
+                        "correctness" : "true"
+                    },
+                    {
+                        "option" : "true",
+                        "correctness" : "false"
+                    }		
+                ]
+            },
+			{
+                "title" : "MVC stands for Model-view-controller",
+                "maxPoints" : 1,
+                "options" : [
+                    {
+                        "option" : "false",
+                        "correctness" : "false"
+                    },
+                    {
+                        "option" : "true",
+                        "correctness" : "true"
+                    }		
+                ]
+            }
+			
+			
+        ]
+    }
+]
