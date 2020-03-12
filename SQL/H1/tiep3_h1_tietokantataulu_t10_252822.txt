@@ -1,0 +1,16 @@
+-- Tietokantojen perusteet 2020
+-- H1 T10
+-- emil.rekola@tuni.fi
+
+Sarake "eka" asetetaan ensisijaiseksi avaimeksi, joten sillä ei voi olla tyhjää "NULL" arvoa.
+Sarakkeesta löytyy kuitenkin tyhjä arvo.
+
+Sarakkeessa "toka" määritetään sarakkeen arvot max 6 merkin pituisiksi merkkijonoiksi.
+Sarakkeesta löytyvä arvo "1450000" on pitempi kuin annettu pituus.
+
+Sarakkeessa "toka" asetetaan rajoite "NOT NULL", mutta sarakkeen arvoista löytyy kuitenkin tyhjä "NULL" arvo.
+
+Sarakkeessa "kolmas" määritellään arvot kokonaisluvuiksi, mutta sarake sisältää kirjaimen "a".
+
+Sarake "neljäs" määritetään neljän numeron pituiseksi desimaali luvuksi, jossa kolme lukua on varattu kokonaisluvuille ja yksi desimaaliosalle.
+Sarakkeen arvot "1342.1" ja "3.14" rikkovat asetettua määritelmää.
