@@ -1,0 +1,12 @@
+1.
+	Bit kellon taajuus on 1,536MHz oletusarvoilla.
+
+2.	Näytteistämisen laskurin maksimi arvo on määritetään kaavalla ref_clk_freq_g/sample_rate_g, 
+	joten laskurin maksimi arvo riippuu annetuista generic muuttujista. Bit kellon laskurin maksimi arvo 
+	lasketaan kaavalla ref_clk_freq_g/(sample_rate_g * data_width_g*2). 
+
+3.	Ohjelmamme sisältää yhden prosessin. Prosessin ensinmäinen osa vastaa sisääntulon näytteistämisestä.
+	Prosessin toinen osa vastaa bit kellon luomisesta ja se sisältää myös lr kellon luomisen ja datan lähettämisen.
+	Prosessin toisessa osassa yksinkertaisesti vain lasketaan bit kellon kellonjaksoja ja sen mukaan 
+	valitaan mikä näytteen bitti siirretään ulostuloon.
+ 	

@@ -1,0 +1,11 @@
+
+
+Tilakoneemme koostuu kuudesta tilasta, jotka ovat start, acknowledge, send_address, send_register, send_data ja stop.
+Start aiheuttaa aloitus signaalin ja siitä siirrytään send_address tilaan, joka lähettään osoitteen ja R/W-bitin eli 8 bittiä.
+Acknowledge tila tulee jokaisen lähetyn tavun jälkeen ja tarkistaa tuleeko ACK tai NACK vastausta ja siirtyy seuraavaan tilaan 
+sen perusteella. send_register ja sen_data tilat ovat rakenteltaan samanlaisia kuin send_address, mutta ne lähettävät dataa
+eri array:sta. Ne ovat tety eri tiloiksi, jotta tilakoneen tiloja on helkompi seurata. Stop-tila aiheutta lopetusehdon. Edellä 
+mainitut tilat toistetaan 15 kertaa, jonka jälkeen jäädään stop-tilaan ja nostetaan finished_out signaali. 
+
+dai_ctrl rekisterin puuttuvat arvot löysimme datalehden sivun 76 taulukosta. Valitsimme arvoiksi "10000001", jolloin
+se vastaa tehtävän annossa annettuja arvojan.

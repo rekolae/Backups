@@ -1,0 +1,30 @@
+
+Utilization
+	LUT:1.05%
+	FFs:0.65%
+	IOs:12.8%
+	PLLs:25.0%
+
+division of resources:
+	i2c bus controller: 0,14%/0,06%/0,20%
+	wavegen0:0,11%/0,05%/0,15%
+	wavegen1:0,10%/0,05%/0,13%
+	wavegen2:0,10%/0,04%70,14%
+	wavegen3:0,09%/0,04%/0,11%
+	multiport adder:0,08%/0,04%/0,11%
+	audio ctrl:0,41%/0,17%/0,67%
+
+Timing
+	clk_out1: 
+		requirement period: 20ns
+		slack: 15.413ns
+		minium clock period: 4.587
+		max frequency: 218 MHz
+	clk_out2:
+		requirement period: 81.379ns
+		slack: 75.162ns
+		minium clock period: 6.217
+		max frequency: 161 MHz
+
+
+Our own synthesizer worked
